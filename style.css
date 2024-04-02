@@ -294,30 +294,20 @@ footer ul li:nth-child(1) {
         flex-direction: row;
     }
     .st-1 {
-        position: relative;
-    }
-    .st-1 .container{
-        margin-bottom: 700px;
-    }
-    .st-1 .content {
-        position: absolute;
-        left: 0;
         width: 100%;
-        margin-bottom: 100px;
-        display: flex;
-        
+    }
+    
+    .st-1 .content {
+            display: flex;
+            
         
     }
     .st-1 .content img{
         display: inline;
         transform: translateX(-4%);
         margin: 0;
-        width: 650px;
-    }
-    .st-1 .content ul{
-
-        margin: 50px 0 0 120px;
-        width: 350px;
+        width: 600px;
+       
     }
     .st-1 .content ul > * >* {
         
